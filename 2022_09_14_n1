@@ -1,1 +1,4 @@
-print("Hello")
+print('Hello')
+
+#교수님이 업데이트 지시하신것
+print('노기섭 교수님 강의')
